@@ -6,5 +6,6 @@ Each project contains a README file detailing the game and objectives, and withi
 ## Project Descriptions
 Project Name | Description
 --- | -------------------------
+Dodge the Creeps | Based on Godot Documentation.
 Quest Game | Treasure is hidden! You need to look through multiple rooms and find the key and treasure case to win the treasure!
 
